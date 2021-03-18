@@ -2,7 +2,7 @@ package org;
 
 import java.util.Arrays;
 
-public class App {
+public class Runner {
     public static void main(String[] args) {
         int[] unsortedArray = {10, 6, 8, 5, 7, 4, 1, 2};
 //        System.out.println("Bubble sort: " + Arrays.toString(BubbleSort.bubbleSort(unsortedArray))); // sorted ascending BubbleSort
