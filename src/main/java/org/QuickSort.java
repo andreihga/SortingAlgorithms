@@ -1,6 +1,8 @@
 package org;
 import java.util.Random;
 
+// Complexity O(n * log(n))
+// Worst Case scenario O(n^2)
 public class QuickSort {
 
     public static int[] quickSort(int[] unsortedArray, int start, int end) {

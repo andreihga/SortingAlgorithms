@@ -1,5 +1,5 @@
 package org;
-
+// Complexity O(n^2)
 public class BubbleSort {
     public static int[] bubbleSort(int[] unsortedArray) {
         boolean madeChanges = true;

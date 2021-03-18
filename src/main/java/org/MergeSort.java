@@ -1,5 +1,6 @@
 package org;
 
+// Complexity O(n * log(n))
 public class MergeSort {
     public static int[] mergeSort(int[] unsortedArray) {
 
